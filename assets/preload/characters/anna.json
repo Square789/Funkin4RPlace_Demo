@@ -1,0 +1,45 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "danceLeft",
+			"fps": 24,
+			"name": "danceLeft",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				-29,
+				-2
+			],
+			"anim": "danceRight",
+			"fps": 24,
+			"name": "danceRight",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/anna",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "gf",
+	"flip_x": false,
+	"healthbar_colors": [
+		165,
+		0,
+		77
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 4,
+	"scale": 1
+}

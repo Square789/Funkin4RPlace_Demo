@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="he.png">
+  <!-- Created with Adobe Animate version 22.0.5.191 -->
+  <!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="the scrungy0000" x="0.666666984558105" y="0.666666984558105" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0001" x="0.666666984558105" y="0.666666984558105" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0002" x="146.666736602783" y="0.666666984558105" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0003" x="146.666736602783" y="0.666666984558105" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0004" x="292.666806221008" y="0.666666984558105" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0005" x="292.666806221008" y="0.666666984558105" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0006" x="438.666875839233" y="0.666666984558105" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0007" x="438.666875839233" y="0.666666984558105" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0008" x="0.666666984558105" y="202.666763305664" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0009" x="0.666666984558105" y="202.666763305664" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0010" x="0.666666984558105" y="202.666763305664" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0011" x="0.666666984558105" y="202.666763305664" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0012" x="0.666666984558105" y="202.666763305664" width="145.333402633667" height="201.333429336548" />
+  <SubTexture name="the scrungy0013" x="0.666666984558105" y="202.666763305664" width="145.333402633667" height="201.333429336548" />
+</TextureAtlas>

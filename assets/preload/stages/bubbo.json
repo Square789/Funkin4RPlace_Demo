@@ -1,0 +1,15 @@
+{
+	"directory": "chile",
+	"defaultZoom": 1,
+	"opponentZoom": 2,
+
+	"boyfriend": [870, 740],
+	"girlfriend": [480, 430],
+	"opponent": [300, 75],
+	"hide_girlfriend": true,
+
+	"camera_boyfriend": [-200, -30],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 0.75
+}

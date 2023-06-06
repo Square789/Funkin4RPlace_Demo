@@ -1,0 +1,68 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "firstDeath",
+			"fps": 10,
+			"name": "flagbf voiddeath0",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathLoop",
+			"fps": 10,
+			"name": "flagbf voiddeathloop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathConfirm",
+			"fps": 10,
+			"name": "flagbf voiddeathconfirm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "deathCancel",
+			"fps": 10,
+			"name": "flagbf voiddeathcancel",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"pixel_snap": true,
+	"image": "characters/flagbf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "flagbf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		81,
+		233,
+		244
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 6,
+	"scale": 6
+}

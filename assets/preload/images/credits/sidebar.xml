@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="sidebar.png">
+	<!-- Created with my fingers v1.0.1 -->
+	<SubTexture name="composer"       x="0"   y="0"   width="70" height="38" />
+	<SubTexture name="artist"         x="0"   y="38"  width="70" height="38" />
+	<SubTexture name="concept_artist" x="0"   y="76"  width="70" height="38" />
+	<SubTexture name="programmer"     x="0"   y="114" width="70" height="38" />
+	<SubTexture name="charter"        x="0"   y="152" width="70" height="38" />
+	<SubTexture name="director"       x="0"   y="190" width="70" height="38" />
+	<SubTexture name="slim"           x="0"   y="228" width="70" height="8"  />
+	<SubTexture name="animator"       x="70"  y="0"   width="70" height="38" />
+	<SubTexture name="unknown"        x="70"  y="38"  width="70" height="38" />
+	<SubTexture name="voice_actor"    x="70"  y="76"  width="70" height="38" />
+	<SubTexture name="miscellaneous"  x="70"  y="114" width="70" height="38" />
+</TextureAtlas>

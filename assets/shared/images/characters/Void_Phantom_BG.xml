@@ -1,0 +1,10 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="void.png"><SubTexture name="void idle0000" x="0" y="0" width="420" height="400" frameX="0" frameY="0" frameWidth="420" frameHeight="400" />
+<SubTexture name="void idle0001" x="420" y="0" width="420" height="400" frameX="0" frameY="0" frameWidth="420" frameHeight="400" />
+<SubTexture name="void idle0002" x="0" y="400" width="420" height="400" frameX="0" frameY="0" frameWidth="420" frameHeight="400" />
+<SubTexture name="void idle0003" x="420" y="400" width="420" height="400" frameX="0" frameY="0" frameWidth="420" frameHeight="400" />
+<SubTexture name="void idle0004" x="840" y="0" width="420" height="400" frameX="0" frameY="0" frameWidth="420" frameHeight="400" />
+<SubTexture name="void idle0005" x="840" y="400" width="420" height="400" frameX="0" frameY="0" frameWidth="420" frameHeight="400" />
+<SubTexture name="void idle0006" x="0" y="800" width="420" height="400" frameX="0" frameY="0" frameWidth="420" frameHeight="400" />
+<SubTexture name="void idle0007" x="420" y="800" width="420" height="400" frameX="0" frameY="0" frameWidth="420" frameHeight="400" />
+</TextureAtlas>

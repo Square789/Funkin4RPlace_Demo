@@ -1,0 +1,35 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "void idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"pixel_snap": true,
+	"image": "characters/Void_Phantom_BG",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "voidphantom-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

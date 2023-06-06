@@ -1,0 +1,68 @@
+{ "frames": {
+   "kirb0": {
+    "frame": { "x": 0, "y": 0, "w": 29, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 29, "h": 26 },
+    "sourceSize": { "w": 29, "h": 26 },
+    "duration": 100
+   },
+   "kirb1": {
+    "frame": { "x": 29, "y": 0, "w": 29, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 29, "h": 26 },
+    "sourceSize": { "w": 29, "h": 26 },
+    "duration": 100
+   },
+   "kirb2": {
+    "frame": { "x": 58, "y": 0, "w": 29, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 29, "h": 26 },
+    "sourceSize": { "w": 29, "h": 26 },
+    "duration": 100
+   },
+   "kirb3": {
+    "frame": { "x": 0, "y": 26, "w": 29, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 29, "h": 26 },
+    "sourceSize": { "w": 29, "h": 26 },
+    "duration": 100
+   },
+   "kirb4": {
+    "frame": { "x": 29, "y": 26, "w": 29, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 29, "h": 26 },
+    "sourceSize": { "w": 29, "h": 26 },
+    "duration": 100
+   },
+   "kirb5": {
+    "frame": { "x": 29, "y": 26, "w": 29, "h": 26 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 29, "h": 26 },
+    "sourceSize": { "w": 29, "h": 26 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "kirb.png",
+  "format": "I8",
+  "size": { "w": 87, "h": 52 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "bungo freaks", "from": 0, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Main", "opacity": 255, "blendMode": "normal" },
+   { "name": "Arm", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

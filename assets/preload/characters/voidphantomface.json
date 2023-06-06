@@ -1,0 +1,123 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "Void Idle loop without rhythm",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "Void Right",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "Void down",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "Void left",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP-loop",
+			"fps": 10,
+			"name": "Void up loop",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT-loop",
+			"fps": 10,
+			"name": "Void right loop",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN-loop",
+			"fps": 10,
+			"name": "Void down loop",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "Void up",
+			"indices": []
+		},
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT-loop",
+			"fps": 10,
+			"name": "Void left loop",
+			"indices": []
+		}
+	],
+	"no_antialiasing": true,
+	"pixel_snap": true,
+	"image": "characters/Void_Phantom",
+	"position": [
+		200,
+		60
+	],
+	"healthicon": "voidphantom-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		0,
+		0
+	],
+	"sing_duration": 6.1,
+	"scale": 6
+}

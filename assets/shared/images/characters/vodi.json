@@ -1,0 +1,263 @@
+{ "frames": {
+   "VODI IDEL0": {
+    "frame": { "x": 895, "y": 246, "w": 248, "h": 242 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 75, "y": 65, "w": 248, "h": 242 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL1": {
+    "frame": { "x": 332, "y": 476, "w": 316, "h": 188 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 41, "y": 119, "w": 316, "h": 188 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL2": {
+    "frame": { "x": 648, "y": 488, "w": 384, "h": 146 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 161, "w": 384, "h": 146 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL3": {
+    "frame": { "x": 1032, "y": 628, "w": 388, "h": 136 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 171, "w": 388, "h": 136 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL4": {
+    "frame": { "x": 648, "y": 488, "w": 384, "h": 146 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 7, "y": 161, "w": 384, "h": 146 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL5": {
+    "frame": { "x": 332, "y": 476, "w": 316, "h": 188 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 41, "y": 119, "w": 316, "h": 188 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL6": {
+    "frame": { "x": 895, "y": 246, "w": 248, "h": 242 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 75, "y": 65, "w": 248, "h": 242 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL7": {
+    "frame": { "x": 1420, "y": 628, "w": 172, "h": 286 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 113, "y": 21, "w": 172, "h": 286 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL8": {
+    "frame": { "x": 1502, "y": 218, "w": 128, "h": 305 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 135, "y": 2, "w": 128, "h": 305 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI IDEL9": {
+    "frame": { "x": 1420, "y": 628, "w": 172, "h": 286 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 113, "y": 21, "w": 172, "h": 286 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI RITE10": {
+    "frame": { "x": 937, "y": 0, "w": 289, "h": 246 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 70, "y": 82, "w": 289, "h": 246 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI RITE11": {
+    "frame": { "x": 0, "y": 0, "w": 323, "h": 260 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 40, "y": 65, "w": 323, "h": 260 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI RITE12": {
+    "frame": { "x": 323, "y": 0, "w": 306, "h": 248 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 49, "y": 64, "w": 306, "h": 248 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI RITE13": {
+    "frame": { "x": 629, "y": 0, "w": 308, "h": 242 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 45, "y": 65, "w": 308, "h": 242 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI RITE14": {
+    "frame": { "x": 895, "y": 246, "w": 248, "h": 242 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 75, "y": 65, "w": 248, "h": 242 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI LEFF15": {
+    "frame": { "x": 648, "y": 634, "w": 323, "h": 152 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 155, "w": 323, "h": 152 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI LEFF16": {
+    "frame": { "x": 1143, "y": 444, "w": 323, "h": 184 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 123, "w": 323, "h": 184 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI LEFF17": {
+    "frame": { "x": 1226, "y": 0, "w": 310, "h": 218 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 13, "y": 89, "w": 310, "h": 218 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI LEFF18": {
+    "frame": { "x": 629, "y": 242, "w": 266, "h": 234 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 57, "y": 73, "w": 266, "h": 234 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI LEFF19": {
+    "frame": { "x": 895, "y": 246, "w": 248, "h": 242 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 75, "y": 65, "w": 248, "h": 242 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI DONE20": {
+    "frame": { "x": 971, "y": 764, "w": 388, "h": 86 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 5, "y": 221, "w": 388, "h": 86 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI DONE21": {
+    "frame": { "x": 200, "y": 664, "w": 409, "h": 124 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 183, "w": 409, "h": 124 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI DONE22": {
+    "frame": { "x": 0, "y": 433, "w": 332, "h": 182 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 33, "y": 125, "w": 332, "h": 182 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI DONE23": {
+    "frame": { "x": 0, "y": 615, "w": 200, "h": 272 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 99, "y": 35, "w": 200, "h": 272 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI DONE24": {
+    "frame": { "x": 895, "y": 246, "w": 248, "h": 242 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 75, "y": 65, "w": 248, "h": 242 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI UPPE25": {
+    "frame": { "x": 713, "y": 786, "w": 88, "h": 301 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 155, "y": 6, "w": 88, "h": 301 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI UPPE26": {
+    "frame": { "x": 609, "y": 786, "w": 104, "h": 290 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 147, "y": 17, "w": 104, "h": 290 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI UPPE27": {
+    "frame": { "x": 0, "y": 260, "w": 356, "h": 173 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 21, "y": 134, "w": 356, "h": 173 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI UPPE28": {
+    "frame": { "x": 1226, "y": 218, "w": 276, "h": 226 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 61, "y": 81, "w": 276, "h": 226 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "VODI UPPE29": {
+    "frame": { "x": 895, "y": 246, "w": 248, "h": 242 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 75, "y": 65, "w": 248, "h": 242 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "vodi.png",
+  "format": "RGBA8888",
+  "size": { "w": 1630, "h": 1087 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "VODI IDEL", "from": 0, "to": 9, "direction": "forward" },
+   { "name": "VODI RITE", "from": 10, "to": 14, "direction": "forward" },
+   { "name": "VODI LEFF", "from": 15, "to": 19, "direction": "forward" },
+   { "name": "VODI DONE", "from": 20, "to": 24, "direction": "forward" },
+   { "name": "VODI UPPE", "from": 25, "to": 29, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

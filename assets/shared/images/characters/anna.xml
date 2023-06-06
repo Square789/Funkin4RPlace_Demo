@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="anna.png">
+  <!-- Created with Adobe Animate version 22.0.5.191 -->
+  <!-- http://www.adobe.com/products/animate.html -->
+  <SubTexture name="danceLeft0000" x="1.102284138" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0001" x="1.102284138" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0002" x="269.508471741" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0003" x="269.508471741" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0004" x="537.914659344" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0005" x="537.914659344" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0006" x="806.320846947" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0007" x="806.320846947" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0008" x="1074.72703455" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0009" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0010" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0011" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0012" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0013" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0014" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0015" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0016" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0017" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0018" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceLeft0019" x="1343.133222153" y="1.102284138" width="267.303903465" height="382.492595886" />
+  <SubTexture name="danceRight0000" x="1611.539409756" y="1.102284138" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0001" x="1611.539409756" y="1.102284138" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0002" x="1867.820471841" y="1.102284138" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0003" x="1867.820471841" y="1.102284138" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0004" x="1.102284138" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0005" x="1.102284138" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0006" x="257.383346223" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0007" x="257.383346223" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0008" x="513.664408308" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0009" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0010" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0011" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0012" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0013" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0014" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0015" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0016" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0017" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0018" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+  <SubTexture name="danceRight0019" x="769.945470393" y="384.697164162" width="255.178777947" height="380.839169679" />
+</TextureAtlas>

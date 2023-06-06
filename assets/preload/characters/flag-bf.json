@@ -1,0 +1,266 @@
+{
+	"animations": [
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "flagbf down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "flagbf left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 10,
+			"name": "flagbf up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 10,
+			"name": "flagbf right note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUPmiss",
+			"fps": 20,
+			"name": "flagbf up miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHTmiss",
+			"fps": 20,
+			"name": "flagbf right miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFTmiss",
+			"fps": 20,
+			"name": "flagbf left miss",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWNmiss",
+			"fps": 20,
+			"name": "flagbf down miss",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "deathConfirm",
+			"indices": [],
+			"name": "flagbf deathconfirm"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hey",
+			"indices": [],
+			"name": "flagbf up note"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "deathLoop",
+			"indices": [],
+			"name": "flagbf deathloop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "deathCancel",
+			"indices": [],
+			"name": "flagbf deathcancel"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "firstDeath",
+			"indices": [],
+			"name": "flagbf death0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "hurt",
+			"indices": [],
+			"name": "flagbf hurt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "scared",
+			"indices": [],
+			"name": "flagbf hurt"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "idle",
+			"indices": [],
+			"name": "flagbf idle"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "voidfirstDeath",
+			"indices": [],
+			"name": "flagbf voiddeath0"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": true,
+			"fps": 10,
+			"anim": "voiddeathLoop",
+			"indices": [],
+			"name": "flagbf voiddeathloop"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "voiddeathConfirm",
+			"indices": [],
+			"name": "flagbf voiddeathconfirm"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 10,
+			"anim": "voiddeathCancel",
+			"indices": [],
+			"name": "flagbf voiddeathcancel"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [0, 1, 2],
+			"fps": 10,
+			"anim": "dodge",
+			"loop": false,
+			"name": "flagbf dodge"
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"indices": [3, 4, 5, 6],
+			"fps": 10,
+			"anim": "dodge-end",
+			"loop": false,
+			"name": "flagbf dodge"
+		}
+	],
+	"no_antialiasing": true,
+	"pixel_snap": true,
+	"image": "characters/flagbf",
+	"position": [
+		0,
+		0
+	],
+	"healthicon": "flagbf-pixel",
+	"flip_x": true,
+	"healthbar_colors": [
+		81,
+		233,
+		244
+	],
+	"camera_position": [
+		50,
+		-60
+	],
+	"sing_duration": 6,
+	"scale": 6
+}

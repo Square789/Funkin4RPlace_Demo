@@ -1,0 +1,13 @@
+singUP
+singLEFT singRIGHT
+singLEFT singUP singRIGHT
+singLEFT singDOWN singUP singRIGHT
+singLEFT singDOWN singUP singUP singRIGHT
+singLEFT singDOWN singRIGHT singLEFT singUP singRIGHT
+singLEFT singDOWN singRIGHT singUP singLEFT singUP singRIGHT
+singLEFT singDOWN singUP singRIGHT singLEFT singDOWN singUP singRIGHT
+singLEFT singDOWN singUP singRIGHT singUP singLEFT singDOWN singUP singRIGHT
+singLEFT singDOWN singUP singRIGHT singLEFT singRIGHT singLEFT singDOWN singUP singRIGHT
+singLEFT singDOWN singUP singRIGHT singLEFT singUP singRIGHT singLEFT singDOWN singUP singRIGHT
+singLEFT singDOWN singUP singRIGHT singLEFT singDOWN singUP singRIGHT singLEFT singDOWN singUP singRIGHT
+singLEFT singDOWN singUP singRIGHT singLEFT singDOWN singUP singUP singRIGHT singLEFT singDOWN singUP singRIGHT

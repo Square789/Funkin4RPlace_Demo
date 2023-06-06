@@ -1,0 +1,3 @@
+This mod doesn't use the mods folder so you won't find anything.
+
+Feel free to add your own scripts and mods through here

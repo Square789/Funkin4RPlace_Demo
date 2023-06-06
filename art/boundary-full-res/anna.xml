@@ -1,0 +1,45 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="anna.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="danceLeft0000" x="2" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0001" x="2" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0002" x="489" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0003" x="489" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0004" x="976" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0005" x="976" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0006" x="1463" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0007" x="1463" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0008" x="1950" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0009" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0010" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0011" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0012" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0013" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0014" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0015" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0016" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0017" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0018" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceLeft0019" x="2437" y="2" width="485" height="694"/>
+	<SubTexture name="danceRight0000" x="2924" y="2" width="463" height="691"/>
+	<SubTexture name="danceRight0001" x="2924" y="2" width="463" height="691"/>
+	<SubTexture name="danceRight0002" x="3389" y="2" width="463" height="691"/>
+	<SubTexture name="danceRight0003" x="3389" y="2" width="463" height="691"/>
+	<SubTexture name="danceRight0004" x="2" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0005" x="2" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0006" x="467" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0007" x="467" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0008" x="932" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0009" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0010" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0011" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0012" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0013" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0014" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0015" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0016" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0017" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0018" x="1397" y="698" width="463" height="691"/>
+	<SubTexture name="danceRight0019" x="1397" y="698" width="463" height="691"/>
+</TextureAtlas>

@@ -1,0 +1,21 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="flaggf.png">
+<SubTexture name="flaggf dancing beat0000" x="124" y="130" width="42" height="62" frameX="-6" frameY="-3" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0001" x="0" y="130" width="40" height="64" frameX="-7" frameY="-1" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0002" x="0" y="0" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0003" x="40" y="0" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0004" x="80" y="0" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0005" x="120" y="0" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0006" x="40" y="130" width="42" height="64" frameX="-6" frameY="-1" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0007" x="0" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0008" x="40" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf dancing beat0009" x="80" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf cheer0000" x="160" y="0" width="42" height="65" frameX="-6" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf cheer0001" x="160" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf cheer0002" x="160" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf cheer0003" x="160" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf sad0000" x="82" y="130" width="42" height="64" frameX="-6" frameY="-1" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf sad0001" x="120" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf sad0002" x="120" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+<SubTexture name="flaggf sad0003" x="120" y="65" width="40" height="65" frameX="-7" frameY="0" frameWidth="48" frameHeight="65" />
+</TextureAtlas>

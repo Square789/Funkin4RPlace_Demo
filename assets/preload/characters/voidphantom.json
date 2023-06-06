@@ -1,0 +1,17 @@
+{
+    "characters": [
+        {
+            "name": "voidphantomface",
+            "position": [0, 0]
+        },
+        {
+            "name": "voidphantombg",
+            "position": [0, 0]
+        }
+    ],
+    "position": [120, 780],
+    "camera_position": [-1245, -1260],
+    "healthicon": "voidphantom-pixel",
+    "healthbar_colors": [0, 0, 0],
+    "reversed_layers": true
+}

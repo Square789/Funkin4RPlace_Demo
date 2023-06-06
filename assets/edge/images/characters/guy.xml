@@ -1,0 +1,19 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="the guy.png">
+	<!-- Created with Adobe Animate version 22.0.5.191 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="shmoove0000" x="1" y="1" width="314" height="422"/>
+	<SubTexture name="shmoove0001" x="1" y="1" width="314" height="422"/>
+	<SubTexture name="shmoove0002" x="316" y="1" width="314" height="422"/>
+	<SubTexture name="shmoove0003" x="316" y="1" width="314" height="422"/>
+	<SubTexture name="shmoove0004" x="631" y="1" width="314" height="422"/>
+	<SubTexture name="shmoove0005" x="631" y="1" width="314" height="422"/>
+	<SubTexture name="shmoove0006" x="1" y="424" width="314" height="422"/>
+	<SubTexture name="shmoove0007" x="1" y="424" width="314" height="422"/>
+	<SubTexture name="shmoove0008" x="316" y="424" width="314" height="422"/>
+	<SubTexture name="shmoove0009" x="316" y="424" width="314" height="422"/>
+	<SubTexture name="shmoove0010" x="316" y="424" width="314" height="422"/>
+	<SubTexture name="shmoove0011" x="316" y="424" width="314" height="422"/>
+	<SubTexture name="shmoove0012" x="316" y="424" width="314" height="422"/>
+	<SubTexture name="shmoove0013" x="316" y="424" width="314" height="422"/>
+</TextureAtlas>

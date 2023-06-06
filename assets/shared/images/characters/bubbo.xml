@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="bubbo.png">
+  <SubTexture name="bubbo idle0" x="0" y="0" width="25" height="25"/>
+  <SubTexture name="bubbo idle1" x="25" y="0" width="25" height="25"/>
+  <SubTexture name="bubbo idle2" x="50" y="0" width="25" height="25"/>
+  <SubTexture name="bubbo idle3" x="75" y="0" width="25" height="25"/>
+  <SubTexture name="bubbo idle4" x="75" y="0" width="25" height="25"/>
+  <SubTexture name="bubbo idle5" x="75" y="0" width="25" height="25"/>
+  <SubTexture name="bubbo up note0" x="0" y="25" width="25" height="25"/>
+  <SubTexture name="bubbo up note1" x="25" y="25" width="25" height="25"/>
+  <SubTexture name="bubbo up note2" x="25" y="25" width="25" height="25"/>
+  <SubTexture name="bubbo up note3" x="25" y="25" width="25" height="25"/>
+  <SubTexture name="bubbo down note0" x="50" y="25" width="25" height="25"/>
+  <SubTexture name="bubbo down note1" x="75" y="25" width="25" height="25"/>
+  <SubTexture name="bubbo down note2" x="75" y="25" width="25" height="25"/>
+  <SubTexture name="bubbo down note3" x="75" y="25" width="25" height="25"/>
+  <SubTexture name="bubbo left note0" x="0" y="50" width="25" height="25"/>
+  <SubTexture name="bubbo left note1" x="25" y="50" width="25" height="25"/>
+  <SubTexture name="bubbo left note2" x="25" y="50" width="25" height="25"/>
+  <SubTexture name="bubbo left note3" x="25" y="50" width="25" height="25"/>
+  <SubTexture name="bubbo right note0" x="50" y="50" width="25" height="25"/>
+  <SubTexture name="bubbo right note1" x="75" y="50" width="25" height="25"/>
+  <SubTexture name="bubbo right note2" x="75" y="50" width="25" height="25"/>
+  <SubTexture name="bubbo right note3" x="75" y="50" width="25" height="25"/>
+  <SubTexture name="bubbo afton0" x="0" y="75" width="25" height="25"/>
+  <SubTexture name="bubbo afton1" x="0" y="75" width="25" height="25"/>
+  <SubTexture name="bubbo afton2" x="25" y="75" width="25" height="25"/>
+  <SubTexture name="bubbo afton2" x="25" y="75" width="25" height="25"/>
+</TextureAtlas>

@@ -1,0 +1,67 @@
+{ "frames": {
+   "boyrg0": {
+    "frame": { "x": 0, "y": 0, "w": 24, "h": 45 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 45 },
+    "sourceSize": { "w": 24, "h": 45 },
+    "duration": 100
+   },
+   "boyrg1": {
+    "frame": { "x": 24, "y": 0, "w": 24, "h": 45 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 45 },
+    "sourceSize": { "w": 24, "h": 45 },
+    "duration": 100
+   },
+   "boyrg2": {
+    "frame": { "x": 0, "y": 45, "w": 24, "h": 45 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 45 },
+    "sourceSize": { "w": 24, "h": 45 },
+    "duration": 100
+   },
+   "boyrg3": {
+    "frame": { "x": 24, "y": 45, "w": 24, "h": 45 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 45 },
+    "sourceSize": { "w": 24, "h": 45 },
+    "duration": 100
+   },
+   "boyrg4": {
+    "frame": { "x": 24, "y": 45, "w": 24, "h": 45 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 45 },
+    "sourceSize": { "w": 24, "h": 45 },
+    "duration": 100
+   },
+   "boyrg5": {
+    "frame": { "x": 24, "y": 45, "w": 24, "h": 45 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 24, "h": 45 },
+    "sourceSize": { "w": 24, "h": 45 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "boyrg.png",
+  "format": "I8",
+  "size": { "w": 48, "h": 90 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "bungo freaks", "from": 0, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Main", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

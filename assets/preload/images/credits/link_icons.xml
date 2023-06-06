@@ -1,0 +1,12 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="link_icons.png">
+	<SubTexture name="twitter"           x="0"   y="0"   width="32" height="32" />
+	<SubTexture name="github"            x="32"  y="0"   width="32" height="32" />
+	<SubTexture name="youtube"           x="64"  y="0"   width="32" height="32" />
+	<SubTexture name="reddit"            x="96"  y="0"   width="32" height="32" />
+	<SubTexture name="steam"             x="0"   y="32"  width="32" height="32" />
+	<SubTexture name="spriters-resource" x="32"  y="32"  width="32" height="32" />
+	<SubTexture name="generic"           x="64"  y="32"  width="32" height="32" />
+	<SubTexture name="linktree"          x="96"  y="32"  width="32" height="32" />
+	<SubTexture name="newgrounds"        x="0"   y="64"  width="32" height="32" />
+</TextureAtlas>

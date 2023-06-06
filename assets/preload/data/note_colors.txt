@@ -1,0 +1,13 @@
+center
+left right
+left center right
+left down up right
+left down center up right
+left down right left2 up right2
+left down right center left2 up right2
+left down up right left2 down2 up2 right2
+left down up right center left2 down2 up2 right2
+left down up right left3 right3 left2 down2 up2 right2
+left down up right left3 center right3 left2 down2 up2 right2
+left down up right left3 down3 up3 right3 left2 down2 up2 right2
+left down up right left3 down3 center up3 right3 left2 down2 up2 right2

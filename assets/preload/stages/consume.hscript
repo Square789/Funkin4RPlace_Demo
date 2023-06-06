@@ -1,0 +1,105 @@
+// the offset is so everything can be perfectly centered regardless of scroll factor when cam scroll is 0, 0
+var offset = {
+    x: (FlxG.width - 420 * 6) / 2,
+    y: (FlxG.height - 280 * 6) / 2
+}
+
+function setupSprite(spr) {
+    spr.pixelSetup();
+    spr.x += offset.x;
+    spr.y += offset.y;
+    spr.originalPosition.x = spr.x;
+    spr.originalPosition.y = spr.y;
+    return spr;
+}
+
+function addBehind(arr) {
+    for (spr in arr) addBehindChars(setupSprite(spr));
+}
+
+function addOver(arr) {
+    arr.reverse();
+    for (spr in arr) addOverChars(setupSprite(spr));
+}
+
+var special = {};
+
+function onCreate() {
+    var backOffset = {x: 4, y: 14};
+    var frontOffset = {x: 0, y: 10};
+    var oldOffset = {x: -4, y: -2};
+    var fronterOffset = {x: 6, y: 0};
+    var frontScroll = {x: 0.95, y: 1.1};
+    var backScroll = {x: 0.9, y: 1.2};
+    var oldScroll = {x: 1, y: 1};
+    var fronterScroll = {x: 1.1, y: 0.9};
+
+    var background = new BGSprite('consume/background', 0 + 4, 0 + 20, 0.6, 1.35);
+    var deathraylaserguy = new BGSprite('consume/deathraylaserguy', 0, 0, 0.7, 1.25);
+    var road = new BGSprite('consume/road', 0, 0, 1, 1);
+    var buildingsback = new BGSprite('consume/buildingsback', 0 + backOffset.x, 0 + backOffset.y, backScroll.x, backScroll.y);
+    var ori = new BGSprite('consume/characters/ori', 0 + backOffset.x, 84 + backOffset.y, backScroll.x, 0.8, ['ori'], false, 10);
+    var flipnote = new BGSprite('consume/characters/flipnote', 310 + backOffset.x, 59 + backOffset.y, backScroll.x, backScroll.y, ['hatena frog'], false, 10);
+    var snake = new BGSprite('consume/characters/snake', 315 + backOffset.x, 212 + backOffset.y, 1, 1);
+    var buildingsfront = new BGSprite('consume/buildingsfront', 0 + frontOffset.x, 0 + frontOffset.y, frontScroll.x, frontScroll.y);
+    var enaduck = new BGSprite('consume/characters/enaduck', 261 + frontOffset.x, 174 + frontOffset.y, frontScroll.x, frontScroll.y, ['enaduck'], false, 10);
+    var kirb = new BGSprite('consume/characters/kirb', 159 + frontOffset.x, 210 + frontOffset.y, frontScroll.x, frontScroll.y, ['kirb'], false, 10);
+    special.purp = new BGSprite('consume/characters/purp', 217 + frontOffset.x, 137 + frontOffset.y, frontScroll.x, frontScroll.y);
+    var spike = FlxG.random.bool(2) ?
+        new BGSprite("consume/characters/spike_sins", 287, 202 - 21, 1, 1, ["spike_sins"], false, 10) :
+        new BGSprite('consume/characters/spike', 287, 202, 1, 1, ['spike'], false, 10);
+    var oldestAnarchy = new BGSprite('consume/2b2tbuilding', 0 + oldOffset.x, 0 + oldOffset.y, oldScroll.x, oldScroll.y);
+    special.tbh = new BGSprite('consume/characters/tbh', 7 + oldOffset.x, 224 + oldOffset.y, oldScroll.x, oldScroll.y, ['tbh'], false, 10);
+    var punpun = new BGSprite('consume/characters/boyrg', 32 + oldOffset.x, 230 + oldOffset.y, oldScroll.x, oldScroll.y, ['boyrg'], false, 10);
+    var buildingsfronter = new BGSprite('consume/buildingsfronter', 0 + fronterOffset.x, 0 + fronterOffset.y, fronterScroll.x, fronterScroll.y);
+    special.martin = new BGSprite('consume/characters/martin', 420 + fronterOffset.x, 170 + fronterOffset.y, fronterScroll.x, fronterScroll.y);
+    special.louis = new BGSprite('consume/characters/louis', 420 + fronterOffset.x, 210 + fronterOffset.y, fronterScroll.x, fronterScroll.y);
+
+    addBehind([background, deathraylaserguy, road, buildingsback, ori, flipnote, snake, buildingsfront, enaduck, kirb, special.purp]);
+    addBehind([spike, oldestAnarchy, special.tbh, punpun]);
+    addOver([buildingsfronter, special.martin, special.louis]);
+
+    for (booper in [ori, flipnote, enaduck, kirb, spike, special.tbh, punpun]) instance.boppers.push(booper);
+
+    for (charGroup in [instance.boyfriendGroup, instance.dadGroup, instance.gfGroup]) {
+        charGroup.x += offset.x;
+        charGroup.y += offset.y;
+    }
+
+    if (instance.dadGroupFile != null) {
+        for (voidbg in instance.dadGroupFile.characters.filter((c) -> c.name == 'voidphantombg')) {
+            voidbg.insert = getObjectOrder(special.purp);
+        }
+    }
+}
+
+function onMoveCamera(focus) {
+    if (focus == 'dad') {
+        special.purp.flipX = false;
+    } else {
+        special.purp.flipX = true;
+    }
+}
+
+function onUpdate() {
+    var time = Conductor.songPosition / 1000;
+
+    special.martin.setPosition(
+        special.martin.originalPosition.x - ((time * 150) % ((420 * 12 - 170) * .65)) * 6,
+        special.martin.originalPosition.y + ((time * 150) % ((420 * 12 - 170) * .65)) * 6 * .65
+    );
+
+
+    special.louis.setPosition(
+        special.louis.originalPosition.x - ((time * 150 - 35) % ((420 * 12 - 210) * .65)) * 6,
+        special.louis.originalPosition.y + ((time * 150 - 35) % ((420 * 12 - 210) * .65)) * 6 * .65
+    );
+
+    var yippee = FlxG.save.data.unlockedAchievements.get("yippee") == null && special.tbh.isOnScreen(FlxG.camera);
+    FlxG.mouse.visible = yippee;
+    if (yippee) {
+        if (FlxG.mouse.justPressed && special.tbh.overlapsPoint(FlxG.mouse.getPosition(), true)) {
+            AchievementManager.advanceAchievement("yippee", 1);
+        }
+    }
+}

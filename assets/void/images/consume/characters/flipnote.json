@@ -1,0 +1,67 @@
+{ "frames": {
+   "hatena frog0": {
+    "frame": { "x": 0, "y": 0, "w": 20, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 17 },
+    "sourceSize": { "w": 20, "h": 17 },
+    "duration": 100
+   },
+   "hatena frog1": {
+    "frame": { "x": 20, "y": 0, "w": 20, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 17 },
+    "sourceSize": { "w": 20, "h": 17 },
+    "duration": 100
+   },
+   "hatena frog2": {
+    "frame": { "x": 40, "y": 0, "w": 20, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 17 },
+    "sourceSize": { "w": 20, "h": 17 },
+    "duration": 100
+   },
+   "hatena frog3": {
+    "frame": { "x": 0, "y": 17, "w": 20, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 17 },
+    "sourceSize": { "w": 20, "h": 17 },
+    "duration": 100
+   },
+   "hatena frog4": {
+    "frame": { "x": 20, "y": 17, "w": 20, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 17 },
+    "sourceSize": { "w": 20, "h": 17 },
+    "duration": 100
+   },
+   "hatena frog5": {
+    "frame": { "x": 20, "y": 17, "w": 20, "h": 17 },
+    "rotated": false,
+    "trimmed": false,
+    "spriteSourceSize": { "x": 0, "y": 0, "w": 20, "h": 17 },
+    "sourceSize": { "w": 20, "h": 17 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "flipnote.png",
+  "format": "RGBA8888",
+  "size": { "w": 60, "h": 34 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "hatena frog", "from": 0, "to": 5, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Layer 1", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

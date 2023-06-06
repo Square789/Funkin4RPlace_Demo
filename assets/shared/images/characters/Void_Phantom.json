@@ -1,0 +1,220 @@
+{ "frames": {
+   "Void Idle loop without rhythm0": {
+    "frame": { "x": 0, "y": 0, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void Idle loop without rhythm1": {
+    "frame": { "x": 249, "y": 0, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void Idle loop without rhythm2": {
+    "frame": { "x": 498, "y": 0, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void Idle loop without rhythm3": {
+    "frame": { "x": 747, "y": 0, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void Right4": {
+    "frame": { "x": 996, "y": 0, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void Right5": {
+    "frame": { "x": 0, "y": 324, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void Right6": {
+    "frame": { "x": 249, "y": 324, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void right loop7": {
+    "frame": { "x": 498, "y": 324, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void right loop8": {
+    "frame": { "x": 747, "y": 324, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void left9": {
+    "frame": { "x": 996, "y": 324, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void left10": {
+    "frame": { "x": 0, "y": 648, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void left11": {
+    "frame": { "x": 249, "y": 648, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void left loop12": {
+    "frame": { "x": 498, "y": 648, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void left loop13": {
+    "frame": { "x": 747, "y": 648, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void down14": {
+    "frame": { "x": 996, "y": 648, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void down15": {
+    "frame": { "x": 0, "y": 972, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void down16": {
+    "frame": { "x": 249, "y": 972, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void down loop17": {
+    "frame": { "x": 498, "y": 972, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void down loop18": {
+    "frame": { "x": 747, "y": 972, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void up19": {
+    "frame": { "x": 996, "y": 972, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void up20": {
+    "frame": { "x": 0, "y": 1296, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void up21": {
+    "frame": { "x": 249, "y": 1296, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void up loop22": {
+    "frame": { "x": 498, "y": 1296, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   },
+   "Void up loop23": {
+    "frame": { "x": 747, "y": 1296, "w": 249, "h": 324 },
+    "rotated": false,
+    "trimmed": true,
+    "spriteSourceSize": { "x": 0, "y": 2, "w": 249, "h": 324 },
+    "sourceSize": { "w": 420, "h": 400 },
+    "duration": 100
+   }
+ },
+ "meta": {
+  "app": "http://www.aseprite.org/",
+  "version": "1.x-dev",
+  "image": "Void.png",
+  "format": "RGBA8888",
+  "size": { "w": 1245, "h": 1620 },
+  "scale": "1",
+  "frameTags": [
+   { "name": "Void Idle loop without rhythm", "from": 0, "to": 3, "direction": "forward" },
+   { "name": "Void Right", "from": 4, "to": 6, "direction": "forward" },
+   { "name": "Void right loop", "from": 6, "to": 8, "direction": "forward" },
+   { "name": "Void left", "from": 9, "to": 11, "direction": "forward" },
+   { "name": "Void left loop", "from": 11, "to": 13, "direction": "forward" },
+   { "name": "Void down", "from": 14, "to": 16, "direction": "forward" },
+   { "name": "Void down loop", "from": 16, "to": 18, "direction": "forward" },
+   { "name": "Void up", "from": 19, "to": 21, "direction": "forward" },
+   { "name": "Void up loop", "from": 21, "to": 23, "direction": "forward" }
+  ],
+  "layers": [
+   { "name": "Head", "opacity": 255, "blendMode": "normal" },
+   { "name": "Tears", "opacity": 255, "blendMode": "normal" }
+  ],
+  "slices": [
+  ]
+ }
+}

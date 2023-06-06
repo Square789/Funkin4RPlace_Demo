@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="load.png">
+	<SubTexture name="load0000" x="0" y="0" width="564" height="181"/>
+	<SubTexture name="load0001" x="0" y="181" width="564" height="181"/>
+	<SubTexture name="load0002" x="0" y="362" width="564" height="181"/>
+	<SubTexture name="load0003" x="0" y="543" width="564" height="181"/>
+</TextureAtlas>

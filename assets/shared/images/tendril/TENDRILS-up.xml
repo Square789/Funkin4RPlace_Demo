@@ -1,0 +1,18 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="TENDRILS-up.png">
+<SubTexture name="tendril enter0000" x="0" y="0" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril enter0001" x="19" y="0" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril beep0000" x="38" y="0" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril beep0001" x="57" y="0" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril attack0000" x="76" y="0" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril attack0001" x="95" y="0" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril attack0003" x="114" y="0" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<!--fade start-->
+<SubTexture name="tendril fade0000" x="0" y="112" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril fade0001" x="19" y="112" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril fade0002" x="38" y="112" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril fade0003" x="57" y="112" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril fade0004" x="76" y="112" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril fade0005" x="95" y="112" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+<SubTexture name="tendril fade0006" x="114" y="112" width="19" height="112" frameX="0" frameY="0" frameWidth="19" frameHeight="112" />
+</TextureAtlas>

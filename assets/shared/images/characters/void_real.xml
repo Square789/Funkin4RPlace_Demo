@@ -1,0 +1,8 @@
+<?xml version='1.0' encoding='utf-8'?>
+<TextureAtlas imagePath="void_real.png">
+<SubTexture name="void idle0000" x="45" y="11" width="93" height="288"/>
+<SubTexture name="void down0000" x="159" y="11" width="93" height="288"/>
+<SubTexture name="void right0000" x="269" y="13" width="93" height="288"/>
+<SubTexture name="void left0000" x="46" y="239" width="93" height="288"/>
+<SubTexture name="void up0000" x="156" y="241" width="93" height="288"/>
+</TextureAtlas>

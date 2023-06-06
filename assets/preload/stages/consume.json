@@ -1,0 +1,19 @@
+{
+	"directory": "void",
+	"defaultZoom": 5,
+	"opponentZoom": 3,
+
+	"pixelCoords": true,
+	"boyfriend": [273, 233],
+	"girlfriend": [249, 213],
+	"opponent": [106, 10],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [15, -26],
+	"camera_opponent": [0, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_opponent_fixed": true,
+	"camera_girlfriend_fixed": true,
+	"camera_speed": 2.4,
+	"camera_ease": "smootherStepOut"
+}

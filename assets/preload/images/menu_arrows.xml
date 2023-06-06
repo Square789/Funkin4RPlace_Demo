@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="menu_arrows.png">
+	<!-- Created with my fingers v1.0.0 -->
+	<SubTexture name="long_left"  x="4"  y="1"  width="29" height="19" />
+	<SubTexture name="long_right" x="37" y="1"  width="32" height="20" />
+	<SubTexture name="big_left"   x="0"  y="21" width="59" height="46" />
+	<SubTexture name="big_right"  x="60" y="21" width="59" height="46" />
+</TextureAtlas>

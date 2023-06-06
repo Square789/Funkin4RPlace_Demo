@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="flagbf.png">
+  <SubTexture name="flagbf idle0" x="0" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf idle1" x="50" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf idle2" x="100" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf idle3" x="150" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf idle4" x="150" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf idle5" x="150" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf up note0" x="200" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf up note1" x="250" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf up note2" x="250" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf up note3" x="250" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf down note0" x="300" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf down note1" x="350" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf down note2" x="350" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf down note3" x="350" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf right note0" x="0" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf right note1" x="50" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf right note2" x="50" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf right note3" x="50" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf left note0" x="100" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf left note1" x="150" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf left note2" x="150" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf left note3" x="150" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf up miss0" x="200" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf up miss1" x="200" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf up miss2" x="200" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf up miss3" x="200" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf down miss0" x="300" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf down miss1" x="250" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf down miss2" x="250" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf down miss3" x="250" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf right miss0" x="0" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf right miss1" x="300" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf right miss2" x="300" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf right miss3" x="300" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf left miss0" x="100" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf left miss1" x="350" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf left miss2" x="350" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf left miss3" x="350" y="50" width="50" height="50"/>
+  <SubTexture name="flagbf hurt0" x="0" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf hurt1" x="50" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf hurt2" x="100" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf hurt3" x="150" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf hurt4" x="200" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf hurt5" x="150" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf hurt6" x="200" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf death00" x="250" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf death01" x="300" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf death02" x="350" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf death03" x="0" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathloop0" x="50" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathloop1" x="0" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathloop2" x="100" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathloop3" x="150" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathcancel0" x="200" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathcancel1" x="250" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathcancel2" x="300" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathconfirm0" x="350" y="150" width="50" height="50"/>
+  <SubTexture name="flagbf deathconfirm1" x="0" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf deathconfirm2" x="50" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf deathconfirm3" x="200" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeath00" x="100" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeath01" x="150" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeath02" x="200" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeath03" x="250" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathloop0" x="300" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathloop1" x="250" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathloop2" x="350" y="200" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathloop3" x="0" y="250" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathcancel0" x="50" y="250" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathcancel1" x="100" y="250" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathcancel2" x="150" y="250" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathconfirm0" x="200" y="250" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathconfirm1" x="250" y="250" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathconfirm2" x="300" y="250" width="50" height="50"/>
+  <SubTexture name="flagbf voiddeathconfirm3" x="200" y="100" width="50" height="50"/>
+  <SubTexture name="flagbf dodge0" x="350" y="250" width="50" height="50"/>
+  <SubTexture name="flagbf dodge1" x="0" y="300" width="50" height="50"/>
+  <SubTexture name="flagbf dodge2" x="50" y="300" width="50" height="50"/>
+  <SubTexture name="flagbf dodge3" x="100" y="300" width="50" height="50"/>
+  <SubTexture name="flagbf dodge4" x="150" y="300" width="50" height="50"/>
+  <SubTexture name="flagbf dodge5" x="200" y="300" width="50" height="50"/>
+  <SubTexture name="flagbf dodge6" x="150" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf dodge7" x="150" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf dodge8" x="150" y="0" width="50" height="50"/>
+  <SubTexture name="flagbf dodge9" x="150" y="0" width="50" height="50"/>
+</TextureAtlas>

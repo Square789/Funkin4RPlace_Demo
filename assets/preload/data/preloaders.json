@@ -1,0 +1,43 @@
+[
+    {
+        "name": "funkay"
+    },
+    {
+        "name": "stoned",
+        "top": true,
+        "left": true
+    },
+    {
+        "name": "redditnation",
+        "top": true
+    },
+    {
+        "name": "nepeta"
+    },
+    {
+        "name": "heisenberg",
+        "coverFit": true
+    },
+    {
+        "name": "chonkers",
+        "coverFit": true,
+        "left": true
+    },
+    {
+        "name": "breathtaking",
+        "coverFit": true,
+        "left": true
+    },
+    {
+        "name": "hrmummm",
+        "top": true
+    },
+    {
+        "name": "amogi",
+        "coverFit": true,
+        "pixel": true
+    },
+    {
+        "name": "troll"
+    }
+]

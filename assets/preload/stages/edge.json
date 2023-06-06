@@ -1,0 +1,14 @@
+{
+	"directory": "edge",
+	"defaultZoom": 0.9,
+
+	"boyfriend": [870, 410],
+	"girlfriend": [420, 110],
+	"opponent": [240, -100],
+	"hide_girlfriend": false,
+
+	"camera_boyfriend": [-135, 0],
+	"camera_opponent": [-50, 0],
+	"camera_girlfriend": [0, 0],
+	"camera_speed": 1
+}

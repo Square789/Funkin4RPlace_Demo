@@ -1,0 +1,89 @@
+{
+	"animations": [
+		{
+			"loop": true,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "idle",
+			"fps": 10,
+			"name": "bubbo idle",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singLEFT",
+			"fps": 10,
+			"name": "bubbo left note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singDOWN",
+			"fps": 10,
+			"name": "bubbo down note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singUP",
+			"fps": 24,
+			"name": "bubbo up note",
+			"indices": []
+		},
+		{
+			"loop": false,
+			"offsets": [
+				0,
+				0
+			],
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "bubbo right note",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				30
+			],
+			"indices": [],
+			"fps": 10,
+			"anim": "afton",
+			"loop": true,
+			"name": "bubbo afton"
+		}
+	],
+	"no_antialiasing": true,
+	"image": "characters/bubbo",
+	"position": [
+		190,
+		750
+	],
+	"healthicon": "bubbo-pixel",
+	"flip_x": false,
+	"healthbar_colors": [
+		255,
+		214,
+		53
+	],
+	"camera_position": [
+		-170,
+		30
+	],
+	"sing_duration": 4,
+	"scale": 6
+}

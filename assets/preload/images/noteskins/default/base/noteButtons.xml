@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<TextureAtlas imagePath="noteButtons.png">
+	<!-- Created with Adobe Animate version 19.0.0.326 -->
+	<!-- http://www.adobe.com/products/animate.html -->
+	<SubTexture name="center0000" x="161" y="0" width="160" height="160"/>
+	<SubTexture name="down0000" x="0" y="0" width="160" height="160"/>
+	<SubTexture name="down20000" x="322" y="483" width="160" height="160"/>
+	<SubTexture name="down30000" x="322" y="161" width="160" height="160"/>
+	<SubTexture name="left0000" x="322" y="0" width="160" height="160"/>
+	<SubTexture name="left20000" x="0" y="483" width="160" height="160"/>
+	<SubTexture name="left30000" x="161" y="483" width="160" height="160"/>
+	<SubTexture name="right0000" x="0" y="322" width="160" height="160"/>
+	<SubTexture name="right20000" x="161" y="322" width="160" height="160"/>
+	<SubTexture name="right30000" x="322" y="322" width="160" height="160"/>
+	<SubTexture name="up0000" x="0" y="644" width="160" height="160"/>
+	<SubTexture name="up20000" x="161" y="161" width="160" height="160"/>
+	<SubTexture name="up30000" x="0" y="161" width="160" height="160"/>
+</TextureAtlas>
