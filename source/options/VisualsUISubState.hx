@@ -57,13 +57,6 @@ class VisualsUISubState extends BaseOptionsMenu
 			['Comma', 'Period', 'None']);
 		addOption(option);
 
-		var option:Option = new Option('Naughtiness',
-			"No more saying cuss words, guys! (if unchecked)",
-			'naughtiness',
-			'bool',
-			true);
-		addOption(option);
-
 		var option:Option = new Option('Flashing Lights',
 			"Uncheck this if you're sensitive to flashing lights!",
 			'flashing',

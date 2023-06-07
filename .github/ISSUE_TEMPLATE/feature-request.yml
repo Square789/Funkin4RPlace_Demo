@@ -1,0 +1,9 @@
+name: Feature Request
+description: Request a feature for Funkin' 4 r/place.
+labels: [enhancement]
+body:
+  - type: textarea
+    attributes:
+      label: What feature do you want to get added to Funkin' 4 r/place?
+    validations:
+      required: true

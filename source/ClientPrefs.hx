@@ -34,7 +34,6 @@ class ClientPrefs {
 	public static var underlayAlpha:Float = 0;
 	public static var underlayFull:Bool = false;
 	public static var instantRestart:Bool = false;
-	public static var naughtiness:Bool = true;
 	#if !html5
 	public static var autoPause:Bool = true;
 	#else
@@ -254,7 +253,6 @@ class ClientPrefs {
 		FlxG.save.data.shitMisses = shitMisses;
 		FlxG.save.data.smoothHealth = smoothHealth;
 		FlxG.save.data.keybindReminders = keybindReminders;
-		FlxG.save.data.naughtiness = naughtiness;
 		// @Square789: Achievement saving not needed here anymore since the AchievementManager
 		// takes control of the needed fields in data.
 
@@ -410,9 +408,6 @@ class ClientPrefs {
 		if (FlxG.save.data.autoPause != null) {
 			autoPause = FlxG.save.data.autoPause;
 			FlxG.autoPause = autoPause;
-		}
-		if (FlxG.save.data.naughtiness != null) {
-			naughtiness = FlxG.save.data.naughtiness;
 		}
 		if (FlxG.save.data.focusLostPause != null) {
 			focusLostPause = FlxG.save.data.focusLostPause;
