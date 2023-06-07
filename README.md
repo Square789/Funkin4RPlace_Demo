@@ -2,7 +2,6 @@
 An r/place mod for Friday Night Funkin'.
 
 ## Download & Play
-(there are no downloads yet so if you see this then SHOO)
 * itch.io - TBD
 * [GameBanana](https://gamebanana.com/mods/444552)
 * GameJolt - TBD
