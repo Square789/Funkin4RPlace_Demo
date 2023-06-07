@@ -26,6 +26,8 @@ typedef SwagSong =
 	 * Needs to be added manually cause i'm not coding a field into the chart editor for that.
 	 */
 	var ?charterNames:Array<String>;
+	var ?hasVoidNotes:Bool;
+	var ?hasTendrils:Bool;
 
 	var player1:String;
 	var player2:String;
@@ -144,6 +146,8 @@ class Song
 				}
 				if (note[3] != null && Std.isOfType(note[3], Int)) note[3] = editors.ChartingState.noteTypeList[note[3]];
 				if (note[3] != null && note[3] == true) note[3] = 'Alt Animation';
+				if (note[3] != null && note[3] == "Void Note") songJson.hasVoidNotes = true;
+				if (note[3] != null && note[3] == "Void Tendril") songJson.hasTendrils = true;
 				if (note[3] == null) note[3] = '';
 				if (note[4] == null || note[4].length < 1) note[4] = [0];
 				notes[i] = [note[0], note[1], note[2], note[3], note[4]];

@@ -2374,6 +2374,12 @@ class PlayState extends MusicBeatState
 				if (SONG.charterNames != null && SONG.charterNames.length > 0) {
 					subPopupRows.push({icon: "charter", text: SONG.charterNames.join(", ")});
 				};
+				if (SONG.hasVoidNotes == true) {
+					subPopupRows.push({icon: "void", text: "Avoid Void Notes"});
+				}
+				if (SONG.hasTendrils == true) {
+					subPopupRows.push({icon: "tendril", text: "Hit Tendrils on 3rd beat"});
+				}
 
 				var popupStuff:Array<{o:FlxSprite, s:Float}> = [];
 
