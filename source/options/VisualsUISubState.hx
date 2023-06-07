@@ -28,7 +28,7 @@ class VisualsUISubState extends BaseOptionsMenu
 		addOption(option);
 
 		var option:Option = new Option('Note Splashes',
-			"If unchecked, hitting \"Sick!!\" notes won't show particles.",
+			"If unchecked, hitting \"Sick!\" notes won't show particles.",
 			'noteSplashes',
 			'bool',
 			true);
