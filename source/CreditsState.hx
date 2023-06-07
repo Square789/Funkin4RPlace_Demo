@@ -1489,7 +1489,7 @@ private function makeCredits():Array<{name:String, members:Array<CreditBlob>}> {
 				[Role.VOICE_ACTOR],
 				Representation.ICON,
 				"esther_christo",
-				[{text: "Monika Chromatic [NOT IN DEMO]"}],
+				[{text: "Monika Chromatic in Consume"}],
 				0xAF5CAC,
 				["https://twitter.com/carimellevo"],
 			),
