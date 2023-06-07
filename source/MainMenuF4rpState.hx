@@ -322,7 +322,7 @@ typedef AchievementDisplayTrio = {
 class MainMenuF4rpState extends MusicBeatState {
 	public static var psychEngineVersion:String = '0.6.2';
 	public static var psychEngineExtraVersion:String = '0.1'; //This is also used for Discord RPC
-	public static var modVersion:String = '0.1.0';
+	public static var modVersion:String = '0.1.1';
 
 	private var virtualState:VirtualMenuState;
 	// Disables user input / the controlling part of `update`.
