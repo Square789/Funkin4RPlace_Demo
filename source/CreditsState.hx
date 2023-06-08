@@ -1078,6 +1078,7 @@ private function makeCredits():Array<{name:String, members:Array<CreditBlob>}> {
 									"Most definitely for the best."
 								),
 							},
+							{text: "Fun fact: This quote has been added only so i had a commit for testing!"},
 							{text: "Fact: The Fact Sphere is always right!"},
 							{text: "You are worth it."},
 							{text: "You have angered the gods!"},
